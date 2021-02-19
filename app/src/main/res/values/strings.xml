@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PinochleInAndroid</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="coin_toss">Who goes first this round?</string>
+    <string name="coin_toss_prompt">Call heads or tails</string>
+    <string name="coin_toss_result">Coin Toss Result</string>
+    <string name="tossing_coin">Tossing coin</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="welcome_message">Welcome to Pinochle</string>
+    <string name="card_selectable_type">Selectable Type</string>
+    <string name="card_position">Card Position</string>
+</resources>
